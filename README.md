@@ -1,7 +1,8 @@
 
 # Advanced Dice Game 🎲
 
-A fun and interactive browser-based dice game where players compete to achieve the highest score across six exciting rounds. The game implements classic dice game scoring rules and offers a user-friendly interface.
+A fun and interactive browser-based dice game where players compete to achieve the highest score across six exciting rounds. The game implements classic dice game scoring rules and offers a user-friendly interface. This is a hyperlink to this project https://diceadvanced.netlify.app/
+
 <img width="673" alt="image" src="https://github.com/user-attachments/assets/57d68c12-9bee-463a-bcbc-6bcb3e78eeae" />
 
 
